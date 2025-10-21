@@ -1,7 +1,3 @@
-Parfait ! Je peux te créer un **README.md** clair et structuré pour ton projet Jenkins + CI/CD avec GitHub, ngrok et gestion des repos publics/privés. Voici une version complète et professionnelle :
-
----
-
 # 🚀 DevOps Project 1 – Jenkins CI/CD Pipeline
 
 ## 📘 Description du projet
